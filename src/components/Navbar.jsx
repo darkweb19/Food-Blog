@@ -8,7 +8,10 @@ export default function Navbar() {
 			<Link to="/view">View Food</Link> */}
 			<nav className="navbar bg-body-tertiary">
 				<div className="container-fluid">
-					<Link className="navbar-brand" to="/">
+					<Link
+						className="navbar-brand text-dark font-weight-bold"
+						to="/"
+					>
 						Food-Blog
 					</Link>
 					<ul className="nav">
