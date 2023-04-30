@@ -6,6 +6,7 @@ export default function Navbar() {
 		<div>
 			{/* <Link to="/home">Home</Link> | <Link to="/add">Add Food</Link> |{" "}
 			<Link to="/view">View Food</Link> */}
+
 			<nav className="navbar bg-body-tertiary">
 				<div className="container-fluid">
 					<Link
